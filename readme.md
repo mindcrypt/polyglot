@@ -23,6 +23,7 @@
 * https://github.com/ViGrey/3F.py
 * https://github.com/rapid7/metasploit-framework/blob/master/modules/encoders/x86/bmp_polyglot.rb
 * https://github.com/tickelton/ico-pdf
+* https://webassembly-security.com/polyglot-webassembly-module-html-js-wasm/
 
 
 
