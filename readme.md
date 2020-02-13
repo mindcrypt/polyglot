@@ -24,6 +24,7 @@
 * https://github.com/rapid7/metasploit-framework/blob/master/modules/encoders/x86/bmp_polyglot.rb
 * https://github.com/tickelton/ico-pdf
 * https://webassembly-security.com/polyglot-webassembly-module-html-js-wasm/
+* https://github.com/Mr-Un1k0d3r/DKMC/blob/master/DKMC%20presentation%202017.pdf
 
 
 
