@@ -25,6 +25,7 @@
 * https://github.com/tickelton/ico-pdf
 * https://webassembly-security.com/polyglot-webassembly-module-html-js-wasm/
 * https://github.com/Mr-Un1k0d3r/DKMC/blob/master/DKMC%20presentation%202017.pdf
+* +- https://kalilinuxtutorials.com/pixload-image-payload-creating-injecting/
 
 
 
