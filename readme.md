@@ -19,6 +19,6 @@
 * Hacking group using Polyglot images to hide malvertising attacks - https://devcondetect.com/blog/2019/2/24/hacking-group-using-polyglot-images-to-hide-malvertsing-attacks
 * https://hatching.io/blog/lnk-hta-polyglot
 * https://en.wikipedia.org/wiki/Gifar
-
+* https://github.com/Polydet/polyglot-database
 
 
