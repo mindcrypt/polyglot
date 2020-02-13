@@ -20,5 +20,8 @@
 * https://hatching.io/blog/lnk-hta-polyglot
 * https://en.wikipedia.org/wiki/Gifar
 * https://github.com/Polydet/polyglot-database
+* https://github.com/ViGrey/3F.py
+* https://github.com/rapid7/metasploit-framework/blob/master/modules/encoders/x86/bmp_polyglot.rb
+
 
 
