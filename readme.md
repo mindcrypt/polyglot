@@ -27,5 +27,7 @@
 * https://github.com/Mr-Un1k0d3r/DKMC/blob/master/DKMC%20presentation%202017.pdf
 * +- https://kalilinuxtutorials.com/pixload-image-payload-creating-injecting/
 
+(https://github.com/mindcrypt/polyglot/blob/master/gatoPolyglot.jpg)
+
 
 
