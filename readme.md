@@ -28,6 +28,7 @@
 * +- https://kalilinuxtutorials.com/pixload-image-payload-creating-injecting/
 * Polyglots PoC using radare2 as binary editor, Abraham Pasamar, INCIDE - https://www.youtube.com/watch?v=0S61uzx-Efk&feature=youtu.be
 * Polyglottar, un polyglot TAR+ELF - https://sysfatal.github.io/polyglottar.html
+* https://insert-script.blogspot.com/2020/11/imagemagick-shell-injection-via-pdf.html
 
  ![alt text](https://github.com/mindcrypt/polyglot/blob/master/gatoPolyglot.jpg)
 
