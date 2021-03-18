@@ -30,6 +30,9 @@
 * Polyglottar, un polyglot TAR+ELF - https://sysfatal.github.io/polyglottar.html
 * https://insert-script.blogspot.com/2020/11/imagemagick-shell-injection-via-pdf.html
 
+* https://github.com/DavidBuchanan314/tweetable-polyglot-png
+* https://github.com/mindcrypt/powerglot
+
  ![alt text](https://github.com/mindcrypt/polyglot/blob/master/gatoPolyglot.jpg)
 
 
